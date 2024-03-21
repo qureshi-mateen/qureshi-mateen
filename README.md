@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @qureshi-mateen
-- 👀 I’m interested in MEAN Stack & WebRTC & Blockchain
-- 🌱 I’m currently learning Blockchain
-- 💞️ I’m looking to collaborate on MEAN Stack projects
+- 👀 I’m interested in MEAN Stack & WebRTC
+- 🌱 I’m currently learning Cloud Computing
+- 💞️ I’m looking to collaborate on MEAN Stack or more of a backend related projects
 - 📫 How to reach me : qureshi.mateen1994@gmail.com
 
 <!---
